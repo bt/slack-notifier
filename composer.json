@@ -1,5 +1,5 @@
 {
-    "name": "polem/slack-notifier",
+    "name": "bertramtruong/slack-notifier",
     "description": "A simple slack wrapper",
     "require": {
         "guzzle/guzzle": "~3"
@@ -8,7 +8,11 @@
         {
             "name": "Paul-Emile MINY",
             "email": "paulemile.miny@gmail.com"
-        }
+        },
+	{
+	    "name": "Bertram Truong",
+	    "email": "bertram.truong@pawsexpress.com.au"
+	}
     ],
     "autoload": {
         "psr-0": {"Slack\\": "src/"}
